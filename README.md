@@ -10,7 +10,7 @@ There is a warning when running the first part of the code:
 
 However, considering the append method worked - I did not use the pandas.concat. Results were succesfully obtained and you can find them in the dataframe "area_summary".
 
-The rest of the code run without errors and or warnings.
+The rest of the code run without any warnings.
 
 
 
