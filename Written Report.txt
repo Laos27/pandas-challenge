@@ -1,0 +1,17 @@
+
+Summary:
+This analysis aimed to analyze further the performance of 15 different schools (from the Government and Independent) based on the Maths and Reading Scores. 
+
+With the data given, and considering that scores above or equal to 50 mean the students had passed the courses. I could find different metrics,
+such as: which was the average Maths and Reading scores by school. From those scores, what was the % of students that passed each course and which % 
+passed both Maths and Reading.
+
+Disregarding the school size, type, or budget - the analysis also allowed to sort the top-performing schools based on % of students that passed both courses
+and which ones were the worst performing schools.
+
+Finally, considering we had different school types, sizes and budgets per student, I created categories(bins) for each of these and grouped the schools under these.
+This allowed to compare schools under similar conditions(same type, same size, etc) and see how they were performing and if any signficant trend popped up.
+
+Conclusions:
+1. The larger the size of the school - the worst the students' scores(Maths and Reading). The size_summary evidenced this.
+2. Independent Schools had better performance/results in Maths and Reading than Government Schools. The type_summary evidenced this.
